@@ -20,6 +20,8 @@ To make data set RDT1 from extracting data from TCGA:
 
    The raw database is stored under the path Folder2/examples/TCGA, and it is **64.4 GB**
    
+   The "GDCdownload" command is just needed once. Once the database is downloaded, that command can be commented out.
+   
    The usable .Rdata file is stored under the path Folder2/results/examples/Rdata/UCEC/
    
    clinical_UCEC.Rdata is 135 KB
