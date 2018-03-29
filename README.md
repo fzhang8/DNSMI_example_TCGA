@@ -24,7 +24,7 @@ To make data set RDT1 from extracting data from TCGA:
    
    clinical_UCEC.Rdata is 135 KB
    
-   dnamethy_UCEC.Rdata is 4.29 GB
+   dnamethy_UCEC.Rdata is *4.29 GB*
    
    transcripts_UCEC.Rdata is 392 MB
    
